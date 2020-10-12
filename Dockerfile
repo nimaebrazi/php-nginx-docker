@@ -13,7 +13,7 @@ RUN set -eux; \
             libpq-dev \
             libjpeg-dev \
             libpng-dev \
-	        libsqlite3-dev \
+	    libsqlite3-dev \
             libfreetype6-dev \
             libssl-dev \
             libmcrypt-dev \
